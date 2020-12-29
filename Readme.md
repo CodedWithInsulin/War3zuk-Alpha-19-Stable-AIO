@@ -11,7 +11,6 @@
 # Description:
 AIO means (All In One)
 
-## What this Mod is about, 
 This Mod changes around 90% of the Total game Mechanics in the sense of Code.
 It adds many weapons All of which have been bought from various stores to try to get the best looking and playing Mod he can manage.
 Its constantly being worked on and improved and should always be kept upto date with the latest version of the main core game. 
