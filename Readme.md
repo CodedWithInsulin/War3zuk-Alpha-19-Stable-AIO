@@ -20,8 +20,8 @@ Some of His Original Modlets that were used to create this AIO are as follows.
 Around 20 or so more have been added directly to the AIO that cant be made into Modlets due to them needing certain bits of code from the AIO so would cause Conflicts.
 
 ## Install Instuctions
-1. Download this War3zuk AIO Stand-alone
+1. Download this War3zuk AIO StandAlone
 2. Goto 7 Days to die (ROOT)
-3. Drag & Drop the "Warzuk AIO Standalone" into "Mods"
+3. Drag & Drop the "Warzuk Alpha 19 Stable AIO StandAlone" into "Mods"
 
 Thats it, Have Fun!
