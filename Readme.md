@@ -23,4 +23,5 @@ Around 20 or so more have been added directly to the AIO that cant be made into 
 1. Download this War3zuk AIO Stand-alone
 2. Goto 7 Days to die (ROOT)
 3. Drag & Drop the "Warzuk AIO Standalone" into "Mods"
+
 Thats it!
